@@ -1,6 +1,5 @@
 # LearnDataBricks
 
-# PySpark COVID-19 Data Analysis 🚀
 
 This repository contains resources for learning and applying **PySpark** on real-world data.  
 The main goal is to demonstrate how to perform distributed data processing and analysis using **Apache Spark**, leveraging a publicly available COVID-19 dataset.
